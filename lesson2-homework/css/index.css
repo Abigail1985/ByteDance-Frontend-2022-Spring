@@ -1,0 +1,277 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li{
+	list-style: none;
+}
+h1{
+	font-size: 40px;
+	color: #1d1d1f;
+}
+h2{
+	font-size: 56px;
+	font-weight: 600;
+	color: #1d1d1f;
+	display: block;
+	width: 100%;	
+}
+h3{
+	color: #1d1d1f;
+	font-size: 28px;
+	font-weight: 400;
+	margin-top: 6px;
+	text-align: center;
+	width: 100%;
+}
+h4{
+	color: #1d1d1f;
+	font-size: 21px;
+	font-weight: 400;
+	width: 100%;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+h5{
+	color: #6e6e73;
+	font-size: 10px;
+	text-align: center;
+	line-height: 20px;
+}
+a{
+	text-decoration: none;
+	color: #06c;
+	font-weight: 400;
+}
+a:hover{
+	text-decoration: underline;
+}
+#all{
+	min-width: 1280px;
+}
+#all #nav{
+	width: 100%;
+	height: 50px;
+	background: rgba(0,0,0,0.8);
+	font-size: 14px;
+}
+#all #nav ul{
+	width: 1200px;
+	height: 50px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#all #nav ul li{
+	float: left;
+	line-height: 50px;
+	width: 92px;
+	text-align: center;
+}
+#all #nav ul li svg{
+	margin-top: 5px;
+}
+#all #nav ul li a{
+	color: white;
+}
+#all p#advertise{
+	width: 100%;
+	height: 50px;
+	font-size: 14px;
+	line-height: 50px;
+	text-align: center;
+	background-color: #e34140;
+	color: white;
+}
+#all p#advertise a{
+	color: white;
+}
+#all #contents #content1{
+	width: 100%;
+	height: 630px;
+	background: #eaf3fc;
+}
+#all #contents #content1 #content1_1{
+	width: 100%;
+	height: 235px;
+	padding-top: 47px;
+	text-align: center;
+}
+#all #contents #content1 #content1_2{
+	width: 100%;
+	height: 345px;
+}
+#all #contents #content1 #content1_1 img{
+	width: 70px;
+	height: 88px;
+	display: block;
+	margin: 0 auto;
+}
+#all #contents #content1 #content1_1 h2{
+	margin-top: 20px;
+}
+#all #contents #content1 #content1_1 a{
+	font-size: 21px;
+}
+#all #contents #content1 #content1_2 img{
+	height: 345px;
+	display: block;
+	margin: 0 auto;
+}
+#all #contents #content2{
+	width: 100%;
+	background: #fbfbfd;
+	margin-top: 15px;
+}
+#all #contents #content2 #content2_1{
+	width: 100%;
+	padding-top: 47px;
+	text-align: center;
+}
+#all #contents #content2 #content2_1 h3{
+	margin-bottom: 20px;
+}
+#all #contents #content2 #content2_1 a{
+	font-size: 21px;
+}
+#all #contents #content2 #content2_2 img{
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+#all #contents #content3{
+	width: 100%;
+	background: #35283c;
+	margin-top: 15px;
+}
+#all #contents #content3 #content3_1{
+	width: 100%;
+	padding-top: 47px;
+	text-align: center;
+}
+#all #contents #content3 #content3_1 h2{
+	color: white;
+}
+#all #contents #content3 #content3_1 h3{
+	margin-bottom: 20px;
+	color: #fec2eb;
+}
+#all #contents #content3 #content3_1 a{
+	font-size: 21px;
+	color: #2997ff;
+}
+#all #contents #content3 #content3_2 img{
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+#all #contents #content4,#content5,#content6{
+	width: 100%;
+	height: 580px;
+	margin-top: 15px;
+	text-align: center;
+}
+#all #contents #content4 #content4_1{
+	width: 49.5%;
+	height: 580px;
+	background: url("../images/watch.jpg") no-repeat;
+	background-position: center;
+	float: left;
+}
+#all #contents #content4 #content4_1 h3:first-child{
+	font-weight: 600;
+}
+#all #contents #content4 #content4_1 h6{
+	color: #d0343a;
+	font-size: 13px;
+}
+#all #contents #content4 #content4_1 h5{
+	margin-top: 415px;
+}
+#all #contents #content4 #content4_2{
+	width: 49.5%;
+	height: 580px;
+	float: right;
+	background: url("../images/airpods.jpg") no-repeat;
+	background-position: center;
+	padding-top: 390px;
+	box-sizing: border-box;
+}
+#all #contents #content4 #content4_2 h3{
+	color: black;
+	font-size: 40px;
+}
+#all #contents #content4 #content4_2 h4{
+	color: black;
+}
+#all #contents #content4 #content4_2 a{
+	color: #2A63C5;
+}
+#all #contents #content5 #content5_1{
+	width: 49.5%;
+	height: 580px;
+	background: url("../images/homepodmini.jpg") no-repeat;
+	background-position: center;
+	float: left;
+}
+#all #contents #content5 #content5_2{
+	width: 49.5%;
+	height: 580px;
+	background: url("../images/macbookpro.jpg") no-repeat;
+	background-position: center;
+	float: left;
+}
+#all #contents #content6 #content6_1{
+	width: 49.5%;
+	height: 580px;
+	background: url("../images/ipadmini.jpg") no-repeat;
+	background-position: center;
+	float: left;
+}
+#all #contents #content6 #content6_2{
+	width: 49.5%;
+	height: 580px;
+	background: url("../images/airtag.jpg") no-repeat;
+	background-position: center;
+	float: left;
+}
+#all #footer{
+	width: 100%;
+	/*height: 200px;*/
+	background: #f5f5f7;
+	margin-top: 15px;
+	padding-top: 20px;
+}
+#all #footer div#lists{
+	width: 900px;
+	height: 350px;
+	margin: 0px auto;
+}
+#all #footer div#lists div.list{
+	width: 180px;
+	height: 100%;
+	float: left;
+	font-size: 12px;
+	line-height: 26px;
+	color: #424245;
+}
+#all #footer div#lists div.list ul li:first-child{
+	font-weight: bold;
+}
+#all #footer div#lists div.list ul li a{
+	color: #424245;
+}
+#all #footer p{
+	width: 900px;
+	height: 30px;
+	font-size: 14px;
+	margin: 0 auto;
+}
+#all #footer p#pa a{
+	color: #424245;
+	border-right: 1px solid #424245;
+	padding-right: 5px;
+}
+#all #footer p#pa a:last-child{
+	border: none;
+}
+
