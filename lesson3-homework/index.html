@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Little Game</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <h1>A Littel Game</h1>
+  <div class="map"></div>
+
+  <div class="info">
+    <button class="start" onclick="startGame()">Start</button>
+    <span class="score">score: 0</span>
+    <span class="time">time: 0s</span>
+  </div>
+  <div class="rule">
+    <h3>Rules</h3>
+    <p>1.遇到奖杯随机加 1~10 分</p>
+    <p>2.遇到蜘蛛网随机减 1~10 分,分值为 0 时候游戏结束</p>
+    <p>3.遇到沙漏加 5 秒钟</p>
+    <p>4.遇到炸弹游戏结束</p>
+    <p>5.游戏开始时一共有 30 秒</p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
