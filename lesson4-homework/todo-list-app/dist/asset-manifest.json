@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.css",
+    "main.js": "/static/js/main.js",
+    "runtime-main.js": "/static/js/runtime-main.js",
+    "static/js/vendors-node_modules_pnpm_modern-js_hmr-client_1_2_2_node_modules_modern-js_hmr-client_dist_j-8b5c67.js": "/static/js/vendors-node_modules_pnpm_modern-js_hmr-client_1_2_2_node_modules_modern-js_hmr-client_dist_j-8b5c67.js",
+    "html/main/index.html": "/html/main/index.html",
+    "main.js.map": "/static/js/main.js.map",
+    "runtime-main.js.map": "/static/js/runtime-main.js.map",
+    "vendors-node_modules_pnpm_modern-js_hmr-client_1_2_2_node_modules_modern-js_hmr-client_dist_j-8b5c67.js.map": "/static/js/vendors-node_modules_pnpm_modern-js_hmr-client_1_2_2_node_modules_modern-js_hmr-client_dist_j-8b5c67.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.js",
+    "static/js/vendors-node_modules_pnpm_modern-js_hmr-client_1_2_2_node_modules_modern-js_hmr-client_dist_j-8b5c67.js",
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
