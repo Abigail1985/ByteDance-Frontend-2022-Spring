@@ -1,6 +1,8 @@
 import { Switch, Route } from '@modern-js/runtime/router';
 
-import './App.css';
+// import './App.css';
+import './style/index.css';
+import './style/base.css';
 
 const App = () => (
   <Switch>
