@@ -1,0 +1,19 @@
+{
+  "name": "my-protocol",
+  "version": "1.0.0",
+  "description": "Implement custom application layer protocol",
+  "main": "protocol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abigail1985/ByteDance-Frontend-2022-Spring.git#3600fb9fc70499a6252bc69ac16720ae11e3c292"
+  },
+  "author": "Lu Junyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abigail1985/ByteDance-Frontend-2022-Spring/issues"
+  },
+  "homepage": "https://github.com/Abigail1985/ByteDance-Frontend-2022-Spring/tree/3600fb9fc70499a6252bc69ac16720ae11e3c292#readme"
+}
